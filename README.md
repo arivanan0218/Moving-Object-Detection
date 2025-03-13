@@ -38,7 +38,7 @@ pip install opencv-python imutils pygame
 ## Customization
 - To adjust the sensitivity of motion detection, modify the `area` variable in the code:
   ```python
-  area = 500  # Increase for larger objects, decrease for smaller objects
+  area = 500  
   ```
 
 - Replace `alert.mp3` with any custom sound file to personalize the alarm tone.
